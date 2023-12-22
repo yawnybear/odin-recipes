@@ -2,9 +2,12 @@
     background-color: white;
     color: rgb(64, 64, 64);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px;
 }
 
 .banner-image {
-    width: 1000px;
-    height: auto;
+    object-fit: cover;
+    width: 100%;
+    max-height: 100%;
+    background-position: center;
 }
