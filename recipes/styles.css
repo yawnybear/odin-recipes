@@ -1,0 +1,10 @@
+.page {
+    background-color: beige;
+    color: rgb(64, 64, 64);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.banner-image {
+    width: 1000px;
+    height: auto;
+}
